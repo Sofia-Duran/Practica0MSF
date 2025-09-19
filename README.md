@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación de la estudiante
 Sofía Cristina Durán Muñoz \[22211752]; l22211752@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
